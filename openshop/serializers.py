@@ -7,7 +7,7 @@ class ProductSerializer(serializers.HyperlinkedModelSerializer):
 
     class Meta:
         model = Product
-        fields = ['id', 'name', 'shop', 'price', 'sku', 'description', 'location', 'discount', 'category', 'stock', 'is_available', 'picture', 'created_at', 'updated_at', '_links']
+        fields = ['id', 'name', 'shop', 'price', 'sku', 'description', 'location', 'discount', 'category', 'stock', 'is_available', 'picture', 'is_delete', 'created_at', 'updated_at', '_links']
 
     def get__links(self, obj):
         request = self.context.get('request')

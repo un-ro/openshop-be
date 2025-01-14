@@ -19,3 +19,6 @@ class Product(models.Model):
     # Timestamps
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+
+    # Soft delete
+    is_delete = models.BooleanField(default=False)
