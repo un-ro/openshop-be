@@ -1,4 +1,4 @@
-# OpenShip RESTful API
+# OpenShop RESTful API
 
 Sebagai seorang Back-End Developer, Anda memutuskan untuk bergabung dengan tim TSC (Technical Steering Committee) dalam mengembangkan sebuah platform e-commerce yang diberi nama OpenShop. Seperti namanya, OpenShop akan menjadi platform penjualan yang dapat diakses oleh siapa saja dengan mudah, serta memungkinkan para penjual dari berbagai kategori produk untuk menawarkan barang-barang mereka secara online.  
 
