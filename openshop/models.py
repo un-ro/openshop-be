@@ -9,7 +9,7 @@ class Product(models.Model):
     description = models.TextField()
     shop = models.CharField(max_length=100)
     location = models.CharField(max_length=50)
-    price = models.DecimalField(max_digits=10, decimal_places=2)
+    price = models.IntegerField(default=0)
     discount = models.IntegerField(default=0)
     category = models.CharField(max_length=50)
     stock = models.IntegerField(default=0)
