@@ -10,11 +10,11 @@ Tugas Anda adalah merancang dan membangun API untuk OpenShop sesuai dengan krite
 
 ## Kriteria
 
-- [ ] Kriteria 1: RESTful API dapat menyimpan data produk
-- [ ] Kriteria 2: RESTful API dapat menampilkan data produk
-- [ ] Kriteria 3: RESTful API dapat mengubah data produk
-- [ ] Kriteria 4: RESTful API dapat menghapus data produk
-- [ ] Kriteria 5: RESTful API dapat mencari data produk
+- [x] Kriteria 1: RESTful API dapat menyimpan data produk
+- [x] Kriteria 2: RESTful API dapat menampilkan data produk
+- [x] Kriteria 3: RESTful API dapat mengubah data produk
+- [x] Kriteria 4: RESTful API dapat menghapus data produk
+- [x] Kriteria 5: RESTful API dapat mencari data produk
 
 ## Testing
 
